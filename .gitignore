@@ -256,3 +256,6 @@ Apollo
 # Pycache
 __pycache__/
 *pyc 
+
+# csv files
+.csv
