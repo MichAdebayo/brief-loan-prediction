@@ -258,4 +258,7 @@ __pycache__/
 *pyc 
 
 # csv files
-.csv
+*.csv
+
+# Git ignore
+.gitignore
