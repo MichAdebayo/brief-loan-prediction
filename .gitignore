@@ -265,4 +265,4 @@ __pycache__/
 *.gitignore/
 
 # Catboost Info
-*catboost_info/
+catboost_info
