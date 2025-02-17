@@ -263,3 +263,6 @@ __pycache__/
 
 # Git ignore
 *.gitignore/
+
+# Catboost Info
+*catboost_info/
